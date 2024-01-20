@@ -1,0 +1,42 @@
+C:\Users\Student\Desktop\DemoORM_CodeFirst\UI_Console\bin\Debug\UI_Console.exe.config
+C:\Users\Student\Desktop\DemoORM_CodeFirst\UI_Console\bin\Debug\UI_Console.exe
+C:\Users\Student\Desktop\DemoORM_CodeFirst\UI_Console\bin\Debug\UI_Console.pdb
+C:\Users\Student\Desktop\DemoORM_CodeFirst\UI_Console\bin\Debug\LibrarieModele.dll
+C:\Users\Student\Desktop\DemoORM_CodeFirst\UI_Console\bin\Debug\NivelAccessDate.dll
+C:\Users\Student\Desktop\DemoORM_CodeFirst\UI_Console\bin\Debug\Repository_CodeFirst.dll
+C:\Users\Student\Desktop\DemoORM_CodeFirst\UI_Console\bin\Debug\EntityFramework.dll
+C:\Users\Student\Desktop\DemoORM_CodeFirst\UI_Console\bin\Debug\LibrarieModele.pdb
+C:\Users\Student\Desktop\DemoORM_CodeFirst\UI_Console\bin\Debug\LibrarieModele.dll.config
+C:\Users\Student\Desktop\DemoORM_CodeFirst\UI_Console\bin\Debug\NivelAccessDate.pdb
+C:\Users\Student\Desktop\DemoORM_CodeFirst\UI_Console\bin\Debug\NivelAccessDate.dll.config
+C:\Users\Student\Desktop\DemoORM_CodeFirst\UI_Console\bin\Debug\Repository_CodeFirst.pdb
+C:\Users\Student\Desktop\DemoORM_CodeFirst\UI_Console\bin\Debug\Repository_CodeFirst.dll.config
+C:\Users\Student\Desktop\DemoORM_CodeFirst\UI_Console\bin\Debug\EntityFramework.xml
+C:\Users\Student\Desktop\DemoORM_CodeFirst\UI_Console\obj\Debug\UI_Console.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\DemoORM_CodeFirst\UI_Console\obj\Debug\UI_Console.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\DemoORM_CodeFirst\UI_Console\obj\Debug\UI_Console.csproj.CopyComplete
+C:\Users\Student\Desktop\DemoORM_CodeFirst\UI_Console\obj\Debug\UI_Console.exe
+C:\Users\Student\Desktop\DemoORM_CodeFirst\UI_Console\obj\Debug\UI_Console.pdb
+C:\Users\Student\Desktop\DemoORM_CodeFirst\UI_Console\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Student\Desktop\DemoORM_CodeFirst\UI_Console\bin\Debug\EntityFramework.SqlServer.xml
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\UI_Console\bin\Debug\UI_Console.exe.config
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\UI_Console\bin\Debug\UI_Console.exe
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\UI_Console\bin\Debug\UI_Console.pdb
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\UI_Console\bin\Debug\EntityFramework.dll
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\UI_Console\bin\Debug\EntityFramework.SqlServer.dll
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\UI_Console\bin\Debug\LibrarieModele.dll
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\UI_Console\bin\Debug\NivelAccessDate.dll
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\UI_Console\bin\Debug\Repository_CodeFirst.dll
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\UI_Console\bin\Debug\LibrarieModele.pdb
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\UI_Console\bin\Debug\LibrarieModele.dll.config
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\UI_Console\bin\Debug\NivelAccessDate.pdb
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\UI_Console\bin\Debug\NivelAccessDate.dll.config
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\UI_Console\bin\Debug\EntityFramework.xml
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\UI_Console\bin\Debug\EntityFramework.SqlServer.xml
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\UI_Console\bin\Debug\Repository_CodeFirst.pdb
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\UI_Console\bin\Debug\Repository_CodeFirst.dll.config
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\UI_Console\obj\Debug\UI_Console.csproj.AssemblyReference.cache
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\UI_Console\obj\Debug\UI_Console.csproj.CoreCompileInputs.cache
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\UI_Console\obj\Debug\UI_Console.csproj.CopyComplete
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\UI_Console\obj\Debug\UI_Console.exe
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\UI_Console\obj\Debug\UI_Console.pdb

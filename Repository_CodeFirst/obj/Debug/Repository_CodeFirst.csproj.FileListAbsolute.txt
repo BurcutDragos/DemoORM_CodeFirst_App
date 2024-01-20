@@ -1,0 +1,48 @@
+C:\Users\Student\Desktop\DemoORM_CodeFirst\Repository_CodeFirst\bin\Debug\Repository_CodeFirst.dll.config
+C:\Users\Student\Desktop\DemoORM_CodeFirst\Repository_CodeFirst\bin\Debug\Repository_CodeFirst.dll
+C:\Users\Student\Desktop\DemoORM_CodeFirst\Repository_CodeFirst\bin\Debug\Repository_CodeFirst.pdb
+C:\Users\Student\Desktop\DemoORM_CodeFirst\Repository_CodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\Student\Desktop\DemoORM_CodeFirst\Repository_CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Student\Desktop\DemoORM_CodeFirst\Repository_CodeFirst\bin\Debug\LibrarieModele.dll
+C:\Users\Student\Desktop\DemoORM_CodeFirst\Repository_CodeFirst\bin\Debug\LibrarieModele.pdb
+C:\Users\Student\Desktop\DemoORM_CodeFirst\Repository_CodeFirst\bin\Debug\LibrarieModele.dll.config
+C:\Users\Student\Desktop\DemoORM_CodeFirst\Repository_CodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\Student\Desktop\DemoORM_CodeFirst\Repository_CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Student\Desktop\DemoORM_CodeFirst\Repository_CodeFirst\obj\Debug\Repository_CodeFirst.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\DemoORM_CodeFirst\Repository_CodeFirst\obj\Debug\Repository_CodeFirst.Migrations.NewDatabase.resources
+C:\Users\Student\Desktop\DemoORM_CodeFirst\Repository_CodeFirst\obj\Debug\Repository_CodeFirst.Migrations.FirstUser.resources
+C:\Users\Student\Desktop\DemoORM_CodeFirst\Repository_CodeFirst\obj\Debug\Repository_CodeFirst.Migrations.Users_Settings.resources
+C:\Users\Student\Desktop\DemoORM_CodeFirst\Repository_CodeFirst\obj\Debug\Repository_CodeFirst.Migrations.Uploaded_Files.resources
+C:\Users\Student\Desktop\DemoORM_CodeFirst\Repository_CodeFirst\obj\Debug\Repository_CodeFirst.Migrations.Conversion_Jobs.resources
+C:\Users\Student\Desktop\DemoORM_CodeFirst\Repository_CodeFirst\obj\Debug\Repository_CodeFirst.Migrations.Conversion_Histories.resources
+C:\Users\Student\Desktop\DemoORM_CodeFirst\Repository_CodeFirst\obj\Debug\Repository_CodeFirst.Migrations.ModifyDatabase.resources
+C:\Users\Student\Desktop\DemoORM_CodeFirst\Repository_CodeFirst\obj\Debug\Repository_CodeFirst.Migrations.NewTable.resources
+C:\Users\Student\Desktop\DemoORM_CodeFirst\Repository_CodeFirst\obj\Debug\Repository_CodeFirst.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\DemoORM_CodeFirst\Repository_CodeFirst\obj\Debug\Repository_CodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\DemoORM_CodeFirst\Repository_CodeFirst\obj\Debug\Repository_CodeFirst.csproj.CopyComplete
+C:\Users\Student\Desktop\DemoORM_CodeFirst\Repository_CodeFirst\obj\Debug\Repository_CodeFirst.dll
+C:\Users\Student\Desktop\DemoORM_CodeFirst\Repository_CodeFirst\obj\Debug\Repository_CodeFirst.pdb
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\Repository_CodeFirst\bin\Debug\Repository_CodeFirst.dll.config
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\Repository_CodeFirst\bin\Debug\Repository_CodeFirst.dll
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\Repository_CodeFirst\bin\Debug\Repository_CodeFirst.pdb
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\Repository_CodeFirst\bin\Debug\EntityFramework.dll
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\Repository_CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\Repository_CodeFirst\bin\Debug\LibrarieModele.dll
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\Repository_CodeFirst\bin\Debug\LibrarieModele.pdb
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\Repository_CodeFirst\bin\Debug\LibrarieModele.dll.config
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\Repository_CodeFirst\bin\Debug\EntityFramework.xml
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\Repository_CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\Repository_CodeFirst\obj\Debug\Repository_CodeFirst.csproj.AssemblyReference.cache
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\Repository_CodeFirst\obj\Debug\Repository_CodeFirst.Migrations.NewDatabase.resources
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\Repository_CodeFirst\obj\Debug\Repository_CodeFirst.Migrations.FirstUser.resources
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\Repository_CodeFirst\obj\Debug\Repository_CodeFirst.Migrations.Users_Settings.resources
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\Repository_CodeFirst\obj\Debug\Repository_CodeFirst.Migrations.Uploaded_Files.resources
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\Repository_CodeFirst\obj\Debug\Repository_CodeFirst.Migrations.Conversion_Jobs.resources
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\Repository_CodeFirst\obj\Debug\Repository_CodeFirst.Migrations.Conversion_Histories.resources
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\Repository_CodeFirst\obj\Debug\Repository_CodeFirst.Migrations.ModifyDatabase.resources
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\Repository_CodeFirst\obj\Debug\Repository_CodeFirst.Migrations.NewTable.resources
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\Repository_CodeFirst\obj\Debug\Repository_CodeFirst.csproj.GenerateResource.cache
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\Repository_CodeFirst\obj\Debug\Repository_CodeFirst.csproj.CoreCompileInputs.cache
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\Repository_CodeFirst\obj\Debug\Repository_CodeFirst.csproj.CopyComplete
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\Repository_CodeFirst\obj\Debug\Repository_CodeFirst.dll
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\Repository_CodeFirst\obj\Debug\Repository_CodeFirst.pdb

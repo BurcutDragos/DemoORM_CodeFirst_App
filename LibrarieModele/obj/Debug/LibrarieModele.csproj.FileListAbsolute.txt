@@ -1,0 +1,24 @@
+C:\Users\Student\Desktop\DemoORM_CodeFirst\LibrarieModele\bin\Debug\LibrarieModele.dll.config
+C:\Users\Student\Desktop\DemoORM_CodeFirst\LibrarieModele\bin\Debug\LibrarieModele.dll
+C:\Users\Student\Desktop\DemoORM_CodeFirst\LibrarieModele\bin\Debug\LibrarieModele.pdb
+C:\Users\Student\Desktop\DemoORM_CodeFirst\LibrarieModele\bin\Debug\EntityFramework.dll
+C:\Users\Student\Desktop\DemoORM_CodeFirst\LibrarieModele\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Student\Desktop\DemoORM_CodeFirst\LibrarieModele\bin\Debug\EntityFramework.xml
+C:\Users\Student\Desktop\DemoORM_CodeFirst\LibrarieModele\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Student\Desktop\DemoORM_CodeFirst\LibrarieModele\obj\Debug\LibrarieModele.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\DemoORM_CodeFirst\LibrarieModele\obj\Debug\LibrarieModele.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\DemoORM_CodeFirst\LibrarieModele\obj\Debug\LibrarieModele.csproj.CopyComplete
+C:\Users\Student\Desktop\DemoORM_CodeFirst\LibrarieModele\obj\Debug\LibrarieModele.dll
+C:\Users\Student\Desktop\DemoORM_CodeFirst\LibrarieModele\obj\Debug\LibrarieModele.pdb
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\LibrarieModele\bin\Debug\LibrarieModele.dll.config
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\LibrarieModele\bin\Debug\LibrarieModele.dll
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\LibrarieModele\bin\Debug\LibrarieModele.pdb
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\LibrarieModele\bin\Debug\EntityFramework.dll
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\LibrarieModele\bin\Debug\EntityFramework.SqlServer.dll
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\LibrarieModele\bin\Debug\EntityFramework.xml
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\LibrarieModele\bin\Debug\EntityFramework.SqlServer.xml
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\LibrarieModele\obj\Debug\LibrarieModele.csproj.AssemblyReference.cache
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\LibrarieModele\obj\Debug\LibrarieModele.csproj.CoreCompileInputs.cache
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\LibrarieModele\obj\Debug\LibrarieModele.csproj.CopyComplete
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\LibrarieModele\obj\Debug\LibrarieModele.dll
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\LibrarieModele\obj\Debug\LibrarieModele.pdb

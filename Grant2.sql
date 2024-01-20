@@ -1,0 +1,12 @@
+IF NOT EXISTS (SELECT name FROM sys.server_principals WHERE name = 'IIS APPPOOL\PDFtoWordAPI')
+BEGIN
+    CREATE LOGIN [IIS APPPOOL\PDFtoWordAPI] 
+      FROM WINDOWS WITH DEFAULT_DATABASE=[master], 
+      DEFAULT_LANGUAGE=[us_english]
+END
+GO
+CREATE USER [PDFtoWordAPI] 
+  FOR LOGIN [IIS APPPOOL\PDFtoWordAPI]
+GO
+EXEC sp_addrolemember 'db_owner', 'PDFtoWordAPI'
+GO

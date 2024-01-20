@@ -1,0 +1,24 @@
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\LibrarieModele\bin\Release\LibrarieModele.dll.config
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\LibrarieModele\bin\Release\LibrarieModele.dll
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\LibrarieModele\bin\Release\LibrarieModele.pdb
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\LibrarieModele\bin\Release\EntityFramework.dll
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\LibrarieModele\bin\Release\EntityFramework.SqlServer.dll
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\LibrarieModele\bin\Release\EntityFramework.xml
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\LibrarieModele\bin\Release\EntityFramework.SqlServer.xml
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\LibrarieModele\obj\Release\LibrarieModele.csproj.AssemblyReference.cache
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\LibrarieModele\obj\Release\LibrarieModele.csproj.CoreCompileInputs.cache
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\LibrarieModele\obj\Release\LibrarieModele.csproj.CopyComplete
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\LibrarieModele\obj\Release\LibrarieModele.dll
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\LibrarieModele\obj\Release\LibrarieModele.pdb
+C:\Users\Student\Desktop\DemoORM_CodeFirst\LibrarieModele\bin\Release\LibrarieModele.dll.config
+C:\Users\Student\Desktop\DemoORM_CodeFirst\LibrarieModele\bin\Release\LibrarieModele.dll
+C:\Users\Student\Desktop\DemoORM_CodeFirst\LibrarieModele\bin\Release\LibrarieModele.pdb
+C:\Users\Student\Desktop\DemoORM_CodeFirst\LibrarieModele\bin\Release\EntityFramework.dll
+C:\Users\Student\Desktop\DemoORM_CodeFirst\LibrarieModele\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Student\Desktop\DemoORM_CodeFirst\LibrarieModele\bin\Release\EntityFramework.xml
+C:\Users\Student\Desktop\DemoORM_CodeFirst\LibrarieModele\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Student\Desktop\DemoORM_CodeFirst\LibrarieModele\obj\Release\LibrarieModele.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\DemoORM_CodeFirst\LibrarieModele\obj\Release\LibrarieModele.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\DemoORM_CodeFirst\LibrarieModele\obj\Release\LibrarieModele.csproj.CopyComplete
+C:\Users\Student\Desktop\DemoORM_CodeFirst\LibrarieModele\obj\Release\LibrarieModele.dll
+C:\Users\Student\Desktop\DemoORM_CodeFirst\LibrarieModele\obj\Release\LibrarieModele.pdb

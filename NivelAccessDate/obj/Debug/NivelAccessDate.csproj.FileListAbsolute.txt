@@ -1,0 +1,46 @@
+C:\Users\Student\Desktop\DemoORM_CodeFirst\NivelAccessDate\bin\Debug\NivelAccessDate.dll.config
+C:\Users\Student\Desktop\DemoORM_CodeFirst\NivelAccessDate\bin\Debug\NivelAccessDate.dll
+C:\Users\Student\Desktop\DemoORM_CodeFirst\NivelAccessDate\bin\Debug\NivelAccessDate.pdb
+C:\Users\Student\Desktop\DemoORM_CodeFirst\NivelAccessDate\bin\Debug\EntityFramework.dll
+C:\Users\Student\Desktop\DemoORM_CodeFirst\NivelAccessDate\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Student\Desktop\DemoORM_CodeFirst\NivelAccessDate\bin\Debug\LibrarieModele.dll
+C:\Users\Student\Desktop\DemoORM_CodeFirst\NivelAccessDate\bin\Debug\Repository_CodeFirst.dll
+C:\Users\Student\Desktop\DemoORM_CodeFirst\NivelAccessDate\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Student\Desktop\DemoORM_CodeFirst\NivelAccessDate\bin\Debug\System.Drawing.Common.dll
+C:\Users\Student\Desktop\DemoORM_CodeFirst\NivelAccessDate\bin\Debug\LibrarieModele.pdb
+C:\Users\Student\Desktop\DemoORM_CodeFirst\NivelAccessDate\bin\Debug\LibrarieModele.dll.config
+C:\Users\Student\Desktop\DemoORM_CodeFirst\NivelAccessDate\bin\Debug\Repository_CodeFirst.pdb
+C:\Users\Student\Desktop\DemoORM_CodeFirst\NivelAccessDate\bin\Debug\Repository_CodeFirst.dll.config
+C:\Users\Student\Desktop\DemoORM_CodeFirst\NivelAccessDate\bin\Debug\EntityFramework.xml
+C:\Users\Student\Desktop\DemoORM_CodeFirst\NivelAccessDate\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Student\Desktop\DemoORM_CodeFirst\NivelAccessDate\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Student\Desktop\DemoORM_CodeFirst\NivelAccessDate\bin\Debug\System.Drawing.Common.pdb
+C:\Users\Student\Desktop\DemoORM_CodeFirst\NivelAccessDate\bin\Debug\System.Drawing.Common.xml
+C:\Users\Student\Desktop\DemoORM_CodeFirst\NivelAccessDate\obj\Debug\NivelAccessDate.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\DemoORM_CodeFirst\NivelAccessDate\obj\Debug\NivelAccessDate.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\DemoORM_CodeFirst\NivelAccessDate\obj\Debug\NivelAccessDate.csproj.CopyComplete
+C:\Users\Student\Desktop\DemoORM_CodeFirst\NivelAccessDate\obj\Debug\NivelAccessDate.dll
+C:\Users\Student\Desktop\DemoORM_CodeFirst\NivelAccessDate\obj\Debug\NivelAccessDate.pdb
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\NivelAccessDate\bin\Debug\NivelAccessDate.dll.config
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\NivelAccessDate\bin\Debug\NivelAccessDate.dll
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\NivelAccessDate\bin\Debug\NivelAccessDate.pdb
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\NivelAccessDate\bin\Debug\EntityFramework.dll
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\NivelAccessDate\bin\Debug\EntityFramework.SqlServer.dll
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\NivelAccessDate\bin\Debug\LibrarieModele.dll
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\NivelAccessDate\bin\Debug\Repository_CodeFirst.dll
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\NivelAccessDate\bin\Debug\System.Data.SqlClient.dll
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\NivelAccessDate\bin\Debug\System.Drawing.Common.dll
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\NivelAccessDate\bin\Debug\LibrarieModele.pdb
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\NivelAccessDate\bin\Debug\LibrarieModele.dll.config
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\NivelAccessDate\bin\Debug\Repository_CodeFirst.pdb
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\NivelAccessDate\bin\Debug\Repository_CodeFirst.dll.config
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\NivelAccessDate\bin\Debug\EntityFramework.xml
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\NivelAccessDate\bin\Debug\EntityFramework.SqlServer.xml
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\NivelAccessDate\bin\Debug\System.Data.SqlClient.xml
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\NivelAccessDate\bin\Debug\System.Drawing.Common.pdb
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\NivelAccessDate\bin\Debug\System.Drawing.Common.xml
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\NivelAccessDate\obj\Debug\NivelAccessDate.csproj.AssemblyReference.cache
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\NivelAccessDate\obj\Debug\NivelAccessDate.csproj.CoreCompileInputs.cache
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\NivelAccessDate\obj\Debug\NivelAccessDate.csproj.CopyComplete
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\NivelAccessDate\obj\Debug\NivelAccessDate.dll
+C:\Diverse\Probleme facultate\Aplicatii Software - Programare\Exercitii C#\DemoORM_CodeFirst\NivelAccessDate\obj\Debug\NivelAccessDate.pdb

@@ -1,0 +1,57 @@
+﻿@model IEnumerable<UI_MVC_ProjectDB.Models.UploadedFileViewModel>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.FILE_ID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.USER_ID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FILE_NAME)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FILE_LOCATION)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.UPLOAD_DATE)
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.FILE_ID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.USER_ID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FILE_NAME)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FILE_LOCATION)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UPLOAD_DATE)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.FILE_ID }) |
+                @Html.ActionLink("Details", "Details", new { id = item.FILE_ID }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.FILE_ID })
+            </td>
+        </tr>
+    }
+</table>
